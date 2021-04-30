@@ -32,7 +32,7 @@
     },
     "dependencies": {
         "debounce": "^1.2.0",
-        "jspdf": "^1.5.3",
+        "jspdf": "^2.3.1",
         "vue-moment": "^4.0.0",
         "vue-select": "^2.5.1",
         "vuejs-datepicker": "^1.5.4"
